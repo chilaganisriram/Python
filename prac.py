@@ -15,7 +15,7 @@ for i in range(21):
     print(N,"*",i,"=",N*i)
     
 #2
-# num=int(input())
+num=int(input())
 fac=1
 while num!=1:
     fac=fac*num
